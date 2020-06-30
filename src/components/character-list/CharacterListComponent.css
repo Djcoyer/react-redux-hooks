@@ -1,0 +1,11 @@
+div.character-card {
+    margin-bottom: 1.75rem;
+    background-color: white;
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    height: 4rem;
+    align-items: center;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px 0px rgba(0,0,0,.2);
+};
